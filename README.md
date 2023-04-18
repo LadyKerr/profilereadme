@@ -2,7 +2,7 @@
 
 ## How to use:
 
-Copy the markdown below and update the placeholders with your personal information. Feel free to ad more sections and use additional resources to reflect your style, taste and expertise. ✨
+Copy the markdown below and update the placeholders with your personal information. Feel free to add more sections and use additional resources to reflect your style, taste and expertise. ✨
 
 <details><summary>Toggle to see the what the completed profile looks like</summary>
 <p>
@@ -56,7 +56,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 </details> 
 
 ![Copy gif](https://media.giphy.com/media/SA5uw3Td33qF4FGIlY/giphy.gif)
-## 👉🏽 Click the copy icon in the upper right hand corner below to copy the template below:
+## 👉🏽 Click the copy icon in the upper right hand corner below to copy the template:
 
 
 ```
@@ -112,6 +112,8 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - [Beautify your GitHub Profile README with badges, shields, stats and more](https://github.com/rzashakeri/beautify-github-profile)
 - [Explore example GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
 - [Create your GitHub Profile README automagically ✨ with this awesome app](https://www.profileme.dev/)
+- [Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [Profile README Generator](https://github.com/maurodesouza/profile-readme-generator)
 - [Explore more Profile README Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 - [Turn your GitHub Profile into a Resume](https://resume.github.io/)
 
