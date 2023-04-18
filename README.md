@@ -56,7 +56,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 </details> 
 
 ![Copy gif](https://media.giphy.com/media/SA5uw3Td33qF4FGIlY/giphy.gif)
-### Copy the template below:
+## 👉🏽 Click the copy icon in the upper right hand corner below to copy the template below:
 
 
 ```
@@ -107,4 +107,11 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 
 ```
+
+## Additional Resources 💡:
+- [Beautify your GitHub Profile README with badges, shields, stats and more](https://github.com/rzashakeri/beautify-github-profile)
+- [Explore example GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
+- [Create your GitHub Profile README automagically ✨ with this awesome app](https://www.profileme.dev/)
+- [Explore more Profile README Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+- [Turn your GitHub Profile into a Resume](https://resume.github.io/)
 
