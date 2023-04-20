@@ -109,6 +109,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ```
 
 ## Additional Resources 💡:
+- [How to create a GitHub Profile README[(https://dev.to/github/how-to-create-a-github-profile-readme-jha)
 - [Beautify your GitHub Profile README with badges, shields, stats and more](https://github.com/rzashakeri/beautify-github-profile)
 - [Explore example GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
 - [Create your GitHub Profile README automagically ✨ with this awesome app](https://www.profileme.dev/)
